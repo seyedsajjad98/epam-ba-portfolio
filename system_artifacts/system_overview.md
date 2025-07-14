@@ -32,3 +32,10 @@ https://github.com/seyedsajjad98/gs-ko-cho-in-silico/blob/main/docs/DHF_CHO_GS_K
 
 ![BPMN Diagram](./pipeline_bpmn.png)
 
+---
+
+### Data Structure (ER Diagram)
+
+![ER Diagram](./er_diagram.png)
+
+
