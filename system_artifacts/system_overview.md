@@ -34,14 +34,17 @@ https://github.com/seyedsajjad98/gs-ko-cho-in-silico/blob/main/docs/DHF_CHO_GS_K
 
 ---
 
+
+### Data Structure (ER Diagram)
+
+![ER Diagram](./er_diagram.png)
+
+---
+
 ### API Endpoint (OpenAPI Example)
 
 A sample OpenAPI spec (Swagger) for retrieving flux results of a knockout run:
 
 [gsko_api.yaml](./gsko_api.yaml)
-
-### Data Structure (ER Diagram)
-
-![ER Diagram](./er_diagram.png)
 
 
