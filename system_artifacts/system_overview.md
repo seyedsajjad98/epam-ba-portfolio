@@ -25,3 +25,10 @@ This diagram shows the **proposed workflow** from my MSc thesis for gene knock-o
 
 **Full thesis details:**  
 https://github.com/seyedsajjad98/gs-ko-cho-in-silico/blob/main/docs/DHF_CHO_GS_KO.md  
+
+---
+
+### Process Flow (BPMN)
+
+![BPMN Diagram](./pipeline_bpmn.png)
+
