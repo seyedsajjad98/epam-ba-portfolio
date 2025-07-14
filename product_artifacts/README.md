@@ -10,4 +10,4 @@ A one-page summary of the product concept, customer segments, value proposition,
 
 ![Lean Canvas](./lean_canvas_gs_ko.png)
 
-*File available as [PNG](./lean_canvas_gs_ko.png) or [PDF](./lean_canvas_gs_ko.pdf) if both uploaded.*
+*File available as [PNG](./lean_canvas_gs_ko.png) 
