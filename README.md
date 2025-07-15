@@ -10,8 +10,8 @@ This repository demonstrates my end‑to‑end Business Analyst skills for life�
 
 ## Table of Contents  
 - [System Artefacts](#system-artefacts)  
-- [Business Artefacts](#business-artefacts)  
-- [Product Artefacts](#product-artefacts)  
+- [Business Artefacts](#business-artifacts)  
+- [Product Artefacts](#product-artifacts)  
 - [Cloud & Data Quality Demo](#cloud--data-quality-demo)  
 - [Glossary](#glossary)  
 - [Five‑Slide Mini‑Case](#five-slide-mini-case)  
@@ -20,6 +20,7 @@ This repository demonstrates my end‑to‑end Business Analyst skills for life�
 
 ---
 
+<a id="system-artefacts"></a>
 ## 🛠️ System Artefacts  
 Demonstrates mapping of actors, data flows, and APIs for a CHO cell‑engineering pipeline.  
 - [Context Diagram](./system_artifacts/context_diagram.png)  
@@ -30,6 +31,7 @@ Demonstrates mapping of actors, data flows, and APIs for a CHO cell‑engineerin
 
 ---
 
+<a id="business-artifacts"></a>
 ## 📋 Business Artefacts  
 Shows breaking high‑level goals into Epics, User Stories, and stakeholder maps.  
 - [Jira Kanban Board](./business_artifacts/jira_kanban_biolord.png)  
@@ -37,6 +39,7 @@ Shows breaking high‑level goals into Epics, User Stories, and stakeholder maps
 
 ---
 
+<a id="product-artifacts"></a>
 ## 📈 Product Artefacts  
 Illustrates product‑management thinking: value definition, planning, and metrics.  
 - [Lean Canvas](./product_artifacts/lean_canvas_gs_ko.png)  
@@ -44,6 +47,7 @@ Illustrates product‑management thinking: value definition, planning, and metri
 
 ---
 
+<a id="cloud--data-quality-demo"></a>
 ## ☁️ Cloud & Data Quality Demo  
 Highlights data‑ingest and QC pipeline architecture.  
 ![Cloud QC Flow](./cloud_artifacts/cloud_qc_flow.png)  
@@ -51,24 +55,28 @@ Full‑size view: [cloud_qc_flow.png](./cloud_artifacts/cloud_qc_flow.png)
 
 ---
 
+<a id="glossary"></a>
 ## 🧬 Glossary  
 A shared vocabulary of key life‑science and data terms:  
 [glossary_biologicals.md](./glossary_biologicals.md)  
 
 ---
 
+<a id="five-slide-mini-case"></a>
 ## 📄 Five‑Slide Mini‑Case  
 A concise deck (context → data model → user stories → QC) for interview walkthroughs:  
 [mini_case.pdf](./mini_case/mini_case.pdf)  
 
 ---
 
+<a id="certifications"></a>
 ## 🎓 Certifications  
 Relevant credentials underpinning my technical and BA expertise:  
 [certifications/](./certifications/)  
 
 ---
 
+<a id="contact"></a>
 ## ✉️ Contact  
 - **Email:** sajjadhaghi1998@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/sajjad-haghi-96a1ba209  
