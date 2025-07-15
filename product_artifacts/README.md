@@ -11,3 +11,11 @@ A one-page summary of the product concept, customer segments, value proposition,
 ![Lean Canvas](./lean_canvas_gs_ko.png)
 
 *File available as [PNG](./lean_canvas_gs_ko.png) 
+
+---
+
+## Project Roadmap: GS-KO in silico Platform
+
+A high-level timeline showing all major phases and deliverables from literature review to final validation.
+
+![Roadmap](./roadmap_gs_ko.png)
