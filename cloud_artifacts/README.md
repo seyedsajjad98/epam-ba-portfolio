@@ -1,5 +1,7 @@
 # Cloud & Data Quality Demo
 
+![Cloud QC Flow](./cloud_artifacts/cloud_qc_flow.png)
+
 This artefact demonstrates a typical lab data ingest and QC pipeline:
 
 - **cloud_qc_flow.png**: Architecture diagram showing  
