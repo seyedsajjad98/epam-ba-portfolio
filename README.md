@@ -15,7 +15,7 @@ This repository demonstrates my end‑to‑end Business Analyst skills for life�
 - [Cloud & Data Quality Demo](#cloud--data-quality-demo)  
 - [Glossary](#glossary)  
 - [Five‑Slide Mini‑Case](#five-slide-mini-case)  
-- [Certifications](#certifications)  
+- [competency](#competency)  
 - [Contact](#contact)  
 
 ---
@@ -69,10 +69,11 @@ A concise deck (context → data model → user stories → QC) for interview wa
 
 ---
 
-<a id="certifications"></a>
-## 🎓 Certifications  
-Relevant credentials underpinning my technical and BA expertise:  
-[certifications/](./certifications/)  
+<a id="competency"></a>
+## 🧠 Competency Letter  
+A personal statement demonstrating how my lab background, bioinformatics expertise, and BA preparation align with the Life‑Science BA role at EPAM:  
+[Competency Letter/README.md](./Competency%20Letter/README.md)
+ 
 
 ---
 
