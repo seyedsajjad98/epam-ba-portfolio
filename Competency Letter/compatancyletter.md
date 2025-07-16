@@ -1,0 +1,13 @@
+## Competency Letter
+
+I'm Sajjad Haghi, and my career started from the lab environment. During my bachelor's studies and multiple internships, I became deeply familiar with lab processes, protocols, and practical challenges scientists regularly face. Early on, I recognized the rising importance of bioinformatics, prompting me to independently pursue bioinformatics courses alongside my core lab studies.
+
+In my master's journey, I actively expanded my bioinformatics expertise, undertaking several challenging computational projects. Notably, recognizing the growing significance of artificial intelligence in biological research, I contributed to the BioLord single-cell gene-perturbation project supervised by Prof. Vincenzo Lagani. This effort demonstrated my ability to rapidly learn and practically implement complex AI-driven bioinformatics solutions.
+
+My master's thesis was entirely self-initiated and self-designed, driven by my proactive and problem-solving mindset. I identified a clear, unmet market demand—efficient, computationally validated CHO cell genetic-engineering platforms. Addressing this, I designed and successfully implemented an in-silico GS-knockout PiggyBac platform, validated with COBRApy metabolic modeling. This project exemplifies my curiosity, rapid learning ability, and determination to independently tackle meaningful scientific problems from idea to validated solution.
+
+What strongly attracts me to the Life-Science Business Analyst role at EPAM is its position at the interface between lab scientists and programmers. My unique background spanning lab experiments and bioinformatics programming equips me perfectly to bridge this gap. To further prepare, I deeply studied Business Analysis and System Analysis methodologies, applying these principles practically within my existing projects, showcased in this very portfolio.
+
+I genuinely enjoy translating complex lab challenges into clear, actionable solutions for software developers. My curiosity, proactive problem-solving approach, and rapid adaptability make me confident in my ability to excel quickly, even advancing to senior-level functionality within months.
+
+Finally, I want to emphasize that I'm not someone satisfied merely performing routine office tasks. While I reliably handle required duties, I thrive in environments offering logical space to proactively propose ideas, technical solutions, and methodological improvements. Given EPAM’s dynamic, growth-oriented culture, I’m confident it's the perfect place to fully leverage my combined lab, bioinformatics, and analytical skills—delivering outstanding solutions across diverse life-science domains, whether in agriculture, medicine, or drug development.
