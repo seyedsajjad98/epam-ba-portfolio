@@ -67,12 +67,6 @@ A shared vocabulary of key life‑science and data terms:
 A concise deck (context → data model → user stories → QC) for interview walkthroughs:  
 [mini_case.pdf](./mini_case/mini_case.pdf)  
 
----
-
-<a id="competency"></a>
-## 🧠 Competency Letter  
-A personal statement demonstrating how my lab background, bioinformatics expertise, and BA preparation align with the Life‑Science BA role at EPAM:  
-[Competency Letter/README.md](./Competency%20Letter/README.md)
  
 
 ---
